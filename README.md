@@ -1,2 +1,3 @@
-# rfcformat
-Issues with RFC format(s)
+# rfc-issues
+
+Issue tracker and metadocument respository about RFC format issues

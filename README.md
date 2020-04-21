@@ -1,3 +1,3 @@
-# rfc-issues
+# ietf-rfc-issues
 
 Issue tracker and metadocument respository about RFC format issues
